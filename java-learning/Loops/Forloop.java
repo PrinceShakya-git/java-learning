@@ -1,5 +1,5 @@
-package Loops;
-import java.util.*;
+
+import java.util.Scanner;
 
 
 
