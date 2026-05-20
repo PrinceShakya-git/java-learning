@@ -264,17 +264,7 @@ Feel free to submit a pull request!
 
 ---
 
-## 📈 Progress Tracker
 
-| Phase | Status | Date | Notes |
-|-------|--------|------|-------|
-| Phase 1: Loops | ✅ Complete | May 2026 | 5 programs |
-| Phase 2: Patterns | ✅ Complete | May 2026 | 4 programs + 1 standalone |
-| Phase 3: Recursion | ⏳ Pending | Soon | Next focus area |
-| Phase 4: Functions | ⏳ Pending | Later | Modular programming |
-| Phase 5: DSA | ⏳ Pending | Later | Arrays, Strings, etc |
-
----
 
 ## 💬 Questions? Issues?
 
