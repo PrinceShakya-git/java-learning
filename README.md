@@ -287,7 +287,7 @@ Feel free to submit a pull request!
 
 ## ✨ Final Thoughts
 
-This repository represents my journey from basics to intermediate problem-solving. Each file is a step forward in competitive programming and software development.
+This repository represents my journey from basics to intermediate problem-solving. Each file is a step forward in MAANG  ML engineer and software development.
 
 **Keep learning, keep coding, keep improving! 🚀**
 
