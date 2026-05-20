@@ -137,16 +137,6 @@ java Loops.PrimeOrNot
 
 ---
 
-## 💡 Key Concepts Covered
-
-| Topic | Files | Difficulty |
-|-------|-------|-----------|
-| **Loop Fundamentals** | 5 | ⭐ Easy |
-| **Pattern Printing** | 5 | ⭐⭐ Medium |
-| **Nested Loops** | 4 | ⭐⭐ Medium |
-| **Logic Building** | All | ⭐⭐⭐ Medium-Hard |
-
----
 
 ## 🎯 Practice Goals
 
@@ -159,14 +149,6 @@ java Loops.PrimeOrNot
 
 ---
 
-## 💼 Interview Preparation
-
-**Common Interview Questions from this repo:**
-- "Print a pyramid pattern of height n"
-- "Reverse a number without using arrays"
-- "Check if a number is prime"
-- "Calculate factorial efficiently"
-- "Optimize nested loops"
 
 **Sample Answer Pattern:**
 ```
