@@ -228,7 +228,6 @@ git --version
 | Resource | Type | Topic |
 |----------|------|-------|
 | [Apna College - Java](https://www.youtube.com/c/ApnaCollege) | YouTube | Core Java |
-| [Physics Wallah - JEE](https://www.physicswallahalakhpandey.com/) | Online Course | Competitive Prep |
 | [Java Docs](https://docs.oracle.com/en/java/) | Official Docs | Reference |
 
 ---
