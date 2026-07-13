@@ -128,5 +128,5 @@ This foundation helps with:
 > Strong fundamentals in Java DSA open doors to FAANG companies and six-figure salaries. This repository builds exactly that.
 
 ---
-
+**Master these 32 programs → Crack interviews → Land your dream tech job** 🚀
 
