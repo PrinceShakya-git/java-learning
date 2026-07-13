@@ -129,4 +129,4 @@ This foundation helps with:
 
 ---
 
-**Master these 32 programs → Crack interviews → Land your dream tech job** 🚀
+
